@@ -37,7 +37,7 @@ Driven by a deep-seated passion for programming and web development, I began my 
 - **Russian**: Conversational
 
 ## How to Reach Me
-- 📫 You can reach me via email at nousynice@gmail.com or phone at +48 730 982 840.
+- 📫 You can reach me via email at gasp-aphelia.0s@icloud.com or phone at +48 730 982 840.
 
 <!---
 Alex-Ynice/Alex-Ynice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
